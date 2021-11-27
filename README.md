@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @neogabe
+- 👋 Hi, I’m Gabe
 - 👀 I’m interested in learn javascript
 - 🌱 I’m currently learning javascript
 - 📫 To reach me, just send an email to glima7591@gmail.com
