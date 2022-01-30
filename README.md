@@ -1,4 +1,5 @@
 ## Hellooo👋 I'm Gabriel, a passionate front-end developer based in Brazil
+
 <div align="center" style="display: inline_block">
   <a href="https://github.com/neogabe">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=neogabe&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
@@ -15,6 +16,7 @@
   <img align="center" alt="Gabe-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Gabe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Gabe-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/cd67355267b0294b368446b9adc7d019/433c316f6ee7efde-31/s540x810/c400d8d466b024867ef7e1f97765317fc036ab18.gifv">
 </div>
   
   ##
