@@ -1,4 +1,4 @@
-## Hellooo👋 I'm Gabriel, a passionate front-end developer based in Brazil
+## Hellooo 👋 I'm Gabriel and I'm a software developer student at @Trybe
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/neogabe">
