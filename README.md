@@ -1,4 +1,4 @@
-## Hellooo 👋 I'm Gabriel and I'm a software developer student at @Trybe
+## Hellooo 👋 I'm Gabriel and I'm a software developer student at Trybe
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/neogabe">
